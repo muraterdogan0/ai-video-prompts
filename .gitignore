@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+node_modules/
+.env
+.env.*
+*.mp4
+*.mov
